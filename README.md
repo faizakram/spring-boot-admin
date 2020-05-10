@@ -138,7 +138,7 @@ Add the following dependency in the pom.xml
 </dependency
 ```
 
-Enable discovery by adding code ** @EnableDiscoveryClient ** in your main class
+Enable discovery by adding ** @EnableDiscoveryClient ** in your main class
 
 ```
 @SpringBootApplication
