@@ -1,4 +1,4 @@
-# Introduction to Spring Boot Admin #
+# Introduction to Spring Boot Admin :simple_smile: #
 
 ## Spring Boot Admin ##
 Spring Boot admin is a community project use to manage and monitor your Spring Boot applications. The client application gets register themselves with the admin server (via Http) or is discovered using Spring Cloud discover server like Eureka, Consul.
