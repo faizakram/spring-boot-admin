@@ -281,7 +281,7 @@ spring.boot.admin.notify.mail.to=admin@example.com
 spring.mail.username=smtp_user
 spring.mail.password=smtp_password
 ```
-You can also add ** Microsoft Teams ** configuration in the application.properties.
+You can also add * Microsoft Teams * configuration in the application.properties.
 
 ```
 #MiroSoft Team
